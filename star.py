@@ -1,1 +1,1 @@
-weeweoo weeoooo
+print("Kumusta Mundo")
