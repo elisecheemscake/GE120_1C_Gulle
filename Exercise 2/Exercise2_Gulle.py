@@ -12,6 +12,7 @@ while True:
     print()
     print("Line No.", counter)
 
+    #stops the user from inputting anything other than numbers
     try:
         distance = float(input("Distance: "))
     except ValueError:
