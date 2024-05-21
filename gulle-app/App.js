@@ -83,6 +83,7 @@ export default function App() {
   );
 }
 
+// stylesheet containing all of the styles used
 const styles = StyleSheet.create({
   mainbox: {
     flex: 1,
